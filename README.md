@@ -46,7 +46,7 @@ We found that weather and temperature both have an effect on Divvy Bike Ridershi
 
 ![image](https://user-images.githubusercontent.com/52756457/79394366-e67df080-7f3c-11ea-8099-bd58a4d04dd9.png)
 
-The boxplot distribution shows us the spread of number of riders by temperature. We can very easily see the decrease in ridership as the temperature decreases.
+The boxplot distribution shows us the spread of number of riders by temperature. We can very easily see the decrease in ridership as the temperature decreases. There is a larger spread of customers in the warmer temperatures than in the colder ones. This means there is a lot more variation in the number of riders on warm temperature days than lower temperature days.
 
 
 
