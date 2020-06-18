@@ -52,7 +52,7 @@ The boxplot distribution shows us the spread of number of riders by temperature.
 
 (<img width="901" alt="Screen Shot 2020-04-15 at 3 26 20 PM" src="https://user-images.githubusercontent.com/52756457/79394489-38bf1180-7f3d-11ea-9780-8b888e568cb7.png">)
 
-The scatterplot above shows the number of riders over the past 3 years. Divvy ridership is very seasonal, we can see the peaks in the warmer seasons and the troughts in the colder seasons. The different colors on the chart indicate temperature.
+The scatterplot above shows the number of riders over the past 3 years. Divvy ridership is very seasonal, we can see the peaks in the warmer seasons and the troughts in the colder seasons. The different colors dots on the chart indicate temperature. The 2 horizantal lines show the average number of riders for that specific temperature range.
 
 
 ### Modeling <a name="modeling"></a>
